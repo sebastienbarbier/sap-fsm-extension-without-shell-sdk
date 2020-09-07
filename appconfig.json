@@ -6,5 +6,12 @@
   "lang": "en",
   "deploymentType": "MANUAL_DEPLOYMENT",
   "hostingType": "CUSTOM_HOSTING",
-  "active": true
+  "active": true,
+  "parameters": [
+    {
+      "name": "skipLoading",      
+      "description": "",      
+      "required": false  
+    }
+  ]
 }

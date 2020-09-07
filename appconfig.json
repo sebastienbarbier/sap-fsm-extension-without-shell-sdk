@@ -7,11 +7,5 @@
   "deploymentType": "MANUAL_DEPLOYMENT",
   "hostingType": "CUSTOM_HOSTING",
   "active": true,
-  "parameters": [
-    {
-      "name": "skipLoading",      
-      "description": "",      
-      "required": false  
-    }
-  ]
+  "skipLoading": true
 }

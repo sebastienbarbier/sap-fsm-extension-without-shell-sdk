@@ -1,0 +1,10 @@
+{
+  "name": "Hello World No ShellSDK",
+  "version": "1.0.0",
+  "provider": "Roadrunner team",
+  "description": "No ShellSDK extension",
+  "lang": "en",
+  "deploymentType": "MANUAL_DEPLOYMENT",
+  "hostingType": "CUSTOM_HOSTING",
+  "active": true
+}

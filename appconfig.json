@@ -7,5 +7,5 @@
   "deploymentType": "MANUAL_DEPLOYMENT",
   "hostingType": "CUSTOM_HOSTING",
   "active": true,
-  "skipLoading": true
+  "useShellSDK": false
 }
